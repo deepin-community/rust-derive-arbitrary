@@ -10,17 +10,29 @@ Source: https://github.com/rust-fuzz/arbitrary
 
 Files: *
 Copyright:
- 2019-2022 The Rust-Fuzz Project Developers
- 2019-2022 Nick Fitzgerald <fitzgen@gmail.com>
- 2019-2021 Manish Goregaokar <manishsmail@gmail.com>
- 2019-2021 Andre Bogus <bogusandre@gmail.com>
- 2019-2021 Corey Farwell <coreyf@rwell.org>
+ FIXME (overlay) UNKNOWN-YEARS The Rust-Fuzz Project Developers
+ FIXME (overlay) UNKNOWN-YEARS Nick Fitzgerald <fitzgen@gmail.com>
+ FIXME (overlay) UNKNOWN-YEARS Manish Goregaokar <manishsmail@gmail.com>
+ FIXME (overlay) UNKNOWN-YEARS Andre Bogus <bogusandre@gmail.com>
+ FIXME (overlay) UNKNOWN-YEARS Corey Farwell <coreyf@rwell.org>
 License: MIT or Apache-2.0
+Comment:
+ FIXME (overlay): Since upstream copyright years are not available in
+ Cargo.toml, they were extracted from the upstream Git repository. This may not
+ be correct information so you should review and fix this before uploading to
+ the archive.
+
+Files: ./LICENSE-MIT
+Copyright: 2019 Manish Goregaokar
+License: UNKNOWN-LICENSE; FIXME (overlay)
+Comment:
+ FIXME (overlay): These notices are extracted from files. Please review them
+ before uploading to the archive.
 
 Files: debian/*
 Copyright:
  2021-2022 Debian Rust Maintainers <pkg-rust-maintainers@alioth-lists.debian.net>
- 2021 Sylvestre Ledru <sylvestre@debian.org>
+ 2021-2022 Sylvestre Ledru <sylvestre@debian.org>
 License: MIT or Apache-2.0
 
 License: Apache-2.0
